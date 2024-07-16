@@ -1,0 +1,28 @@
+@article{{0},
+ author = {孙承君,蒋凤华,李景喜 & 郑立},
+ title = {海洋中微塑料的来源、分布及生态环境影响研究进展},
+ journal = {海洋科学进展},
+ volume = {34},
+ number = {449-461},
+ year = {2016},
+ issn = {1671-6647},
+ doi ={}
+ }
+@article{{0},
+ author = {周倩,章海波,李远 &amp; 骆永明},
+ title = {海岸环境中微塑料污染及其生态效应研究进展},
+ journal = {科学通报},
+ volume = {60},
+ number = {3210-3220},
+ year = {2015},
+ issn = {0023-074X},
+ doi ={}
+ }
+@article{Jambeck2015PlasticWI,
+  title={Plastic waste inputs from land into the ocean},
+  author={Jenna R. Jambeck and Roland Geyer and Chris Wilcox and Theodore R. Siegler and Miriam Perryman and A. L. Andrady and Ramani Narayan and Kara Lavender Law},
+  journal={Science},
+  year={2015},
+  volume={347},
+  pages={768 - 771}
+}
